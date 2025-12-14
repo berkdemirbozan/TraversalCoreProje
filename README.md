@@ -96,3 +96,14 @@ Proje **çok katmanlı mimari** kullanılarak geliştirilmiştir:
 <img width="832" height="773" alt="Image" src="https://github.com/user-attachments/assets/7a8ad3db-e11a-4985-b7d6-d9e1bd86ac3f" />
 <img width="1153" height="492" alt="Image" src="https://github.com/user-attachments/assets/59cb75e9-9a1e-4f12-9b2b-1cabeda50ded" />
 <img width="883" height="763" alt="Image" src="https://github.com/user-attachments/assets/cbe82466-7fc8-4494-aeba-828fe5c4d2be" />
+<img width="1879" height="828" alt="Image" src="https://github.com/user-attachments/assets/4409abde-b6a9-459b-9288-8895c919996d" />
+
+<img width="1857" height="837" alt="Image" src="https://github.com/user-attachments/assets/78155e58-4503-47a9-a80a-9bcdddb820a0" />
+
+<img width="1592" height="412" alt="Image" src="https://github.com/user-attachments/assets/c5878c3c-399c-49db-98cc-15e7cff0fcdf" />
+
+<img width="1579" height="751" alt="Image" src="https://github.com/user-attachments/assets/c01cbee9-088d-48b5-9e74-e66d7bb18a5b" />
+
+<img width="1317" height="383" alt="Image" src="https://github.com/user-attachments/assets/77594ecb-e232-48fa-b691-6b4b74bc4210" />
+
+<img width="1615" height="836" alt="Image" src="https://github.com/user-attachments/assets/56814d7b-f57a-43b1-9eb0-76f663a682a2" />
