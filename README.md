@@ -86,4 +86,4 @@ Proje **çok katmanlı mimari** kullanılarak geliştirilmiştir:
  ---
 
 ## 🖼️ Ekran Görüntüleri
-
+<img width="1407" height="702" alt="Image" src="https://github.com/user-attachments/assets/88f69aa4-a61d-48e1-81a7-a2651bae34cd" />
