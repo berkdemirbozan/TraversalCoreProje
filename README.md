@@ -83,3 +83,7 @@ Proje **çok katmanlı mimari** kullanılarak geliştirilmiştir:
 * Dashboard ve istatistik ekranları
 * Validasyon ve hata yönetimi
 
+ ---
+
+## 🖼️ Ekran Görüntüleri
+
